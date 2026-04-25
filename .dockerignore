@@ -1,0 +1,19 @@
+# Directorios de compilación local
+**/bin/
+**/obj/
+
+# Archivos de configuración de IDE
+.vs/
+.vscode/
+*.user
+
+# Archivos de Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# README y documentación
+*.md
